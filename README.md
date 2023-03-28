@@ -14,7 +14,7 @@ This project is under heavy development and is not by any means, complete. Due t
 
 ## ❓ The tech stack
 
-## 👨‍ 💻Getting Started
+## 👨‍💻 Getting Started
 [GitHub Codespaces](https://github.com/PHACDataHub/Wiki/wiki/How-to-use-GitHub-Codespaces)
 
 To dive into the code, read the wiki above on how to use GitHub Codespaces.

@@ -30,7 +30,7 @@ ______________________
 ______________________
 ______________________
 
-# DSCO Application de génération de nom
+# DSCO Application 
 
 ## ⚠️ CLAUSE DE NON-RESPONSABILITÉ
 Ce projet est en plein développement et n'est en aucun cas terminé. En raison de la nature du processus de développement, le langage est actuellement géré automatiquement et peut donc ne pas être précis. De nombreux aspects du projet peuvent ne pas fonctionner actuellement et/ou ne reflètent pas directement les technologies que le gouvernement utilise actuellement ou utilisera.
